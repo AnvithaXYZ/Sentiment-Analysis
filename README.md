@@ -64,4 +64,5 @@ With the trained sentiment classifier, we apply it to the task of detecting fake
 
 This project demonstrates a comprehensive approach to analyzing real vs. fake news and building a sentiment-based classification model. The experiments showed that feature selection significantly impacts model performance, with the sentiment lexicon model outperforming others. The models developed have practical applications, such as distinguishing between fake and real news based on sentiment analysis.
 
-With a strong foundation in NLP and sentiment analysis
+With a strong foundation in NLP and sentiment analysis, this project offers valuable insights into the classification of digital information and the distinction between real and fake news.
+
